@@ -29,7 +29,7 @@ JavaScript → Lógica do sorteio
 
 1. Baixe o projeto ou clone o repositório:
 
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
+git clone https://github.com/Nicolas7720/Sorteador
 
 
 2. Abra o arquivo index.html no navegador.
