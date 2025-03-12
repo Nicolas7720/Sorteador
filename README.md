@@ -41,16 +41,6 @@ git clone https://github.com/Nicolas7720/Sorteador
 4. Clique no botão para gerar os números! 🎉
 
 
-
-📌 Melhorias Futuras
-
-Adicionar modo escuro.
-
-Permitir exportar o resultado em arquivo TXT ou CSV.
-
-Criar um contador de sorteios realizados.
-
-
 📄 Licença
 
 Este projeto está sob a licença MIT.
